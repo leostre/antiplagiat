@@ -1,0 +1,5 @@
+C:\Users\user\PycharmProjects\antiplagiat\plagiat\files\fourier.py C:\Users\user\PycharmProjects\antiplagiat\plagiat\plagiat2\fourier.py
+C:\Users\user\PycharmProjects\antiplagiat\plagiat\files\fourier.py C:\Users\user\PycharmProjects\antiplagiat\plagiat\plagiat1\fourier.py
+C:\Users\user\PycharmProjects\antiplagiat\plagiat\files\fourier.py C:\Users\user\PycharmProjects\antiplagiat\plagiat\files\awac.py
+C:\Users\user\PycharmProjects\antiplagiat\plagiat\files\cgd.py C:\Users\user\PycharmProjects\antiplagiat\plagiat\plagiat2\fourier.py
+C:\Users\user\PycharmProjects\antiplagiat\plagiat\files\fourier.py C:\Users\user\PycharmProjects\antiplagiat\plagiat\plagiat1\basic.py
